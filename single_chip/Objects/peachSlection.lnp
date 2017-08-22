@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\peach.obj" 
+TO ".\Objects\peachSlection" 
+PRINT(".\Listings\peachSlection.m51") RAMSIZE(256) 
